@@ -1,0 +1,118 @@
+#first {
+    width: 1400px;
+    height: 674px;
+    background-image: url(./image/image.svg);
+    margin: 0 auto;
+}
+
+#lorem {
+    color: #FFF;
+    font-size: 44.452px;
+    font-weight: 400;
+    padding: 39px 71px 476px 71px;
+}
+
+#second {
+    width: 1000px;
+    padding: 40px 32px;
+    align-items: center;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 115px;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#we {
+    color: #535862;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+#email {
+    display: flex;
+    padding: var(--spacing-lg, 12px) 14px;
+    align-items: center;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+    width: 300px;
+}
+
+#subscribe {
+    color: #FFF;
+    padding: var(--spacing-lg, 12px) 18px;
+    align-items: center;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid #FFF;
+    background-color: #007CB8;
+}
+
+#care {
+    color: #535862;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 160px;
+}
+
+#privacy {
+    color: #535862;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-style: normal;
+    font-weight: 400;
+    text-decoration-line: underline;
+}
+
+#types {
+    text-align: center;
+}
+
+#last {
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+h2 {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#full {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#texts {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 500px
+}
+
+#gmail {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#textsemail {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 500px;
+}
